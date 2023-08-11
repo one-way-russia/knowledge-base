@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkone_way_docs=self.webpackChunkone_way_docs||[]).push([[5610],{3231:e=>{e.exports=JSON.parse('{"permalink":"/knowledge-base/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
