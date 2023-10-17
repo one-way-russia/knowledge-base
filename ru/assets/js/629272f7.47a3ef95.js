@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkone_way_docs=self.webpackChunkone_way_docs||[]).push([[881],{3990:e=>{e.exports=JSON.parse('[{"label":"community","permalink":"/knowledge-base/ru/blog/tags/community","count":1}]')}}]);
