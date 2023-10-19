@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkone_way_docs=self.webpackChunkone_way_docs||[]).push([[968],{9406:e=>{e.exports=JSON.parse('{"permalink":"/knowledge-base/ru/blog/tags/community","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
